@@ -109,6 +109,7 @@ payload:
 - '+.auth.grazie.ai'
 - '+.auth.openai.com'
 - '+.auth0.openai.com'
+- '+.auth0.openai.com.cdn.cloudflare.net'
 - '+.autodesk.com'
 - '+.avcdn.net'
 - '+.avira.com'
